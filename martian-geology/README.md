@@ -1,6 +1,3 @@
-title: Martian geology
-published: 2021-03-14
-
 # MARTIAN GEOLOGY
 
 Mars 2020 goals [(18)](https://mars.nasa.gov/science/goals/), Perseverance landing site [(8)](/static/images/mars-perseverance-landing-map.jpg)
@@ -54,12 +51,15 @@ Mars 2020 goals [(18)](https://mars.nasa.gov/science/goals/), Perseverance landi
 
 [Mars 3D](/static/mars-3d.html)
 
-If you want to use the web-based presentation with (putatively) cool
+---
+
+If you want to use the web-based presentation with the (putatively) cool
 styles, you can run the Flask app:
 
 ```
 $ python3 -m flask run
 ```
 
-Then open [http://localhost:5000/articles/martian-geology] in your
-browser.
+Then open
+[http://localhost:5000/articles/martian-geology](http://localhost:5000/articles/martian-geology)
+in your browser.
